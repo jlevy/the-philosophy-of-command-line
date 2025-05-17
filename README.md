@@ -1,7 +1,7 @@
 ## The Philosophy of the Command Line
 
 > “*Simple should be simple.
-> Complex should be possible.*” —Alan Kay
+> Complex should be possible.*” —Alan Kay[^kay]
 
 ### Software Products are Complex
 
@@ -12,8 +12,8 @@ build more things AI-powered developer tools.
 In technology, some things change fast—and some don't change at all.
 The hard part is in knowing which parts are which.
 
-Technology is the solution to *human* problems.
-Human problems tend to be complex.
+Technology is the solution to *human* problems.[^oreilly] And human problems tend to be
+complex.
 
 Engineering is the process of exploring solutions to these problems with precision, in a
 practical way.
@@ -232,3 +232,8 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+
+[^kay]: https://news.ycombinator.com/item?id=24463842
+
+[^oreilly]: https://www.oreilly.com/tim/wtf-book.html
+
