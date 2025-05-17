@@ -1,5 +1,8 @@
 ## The Philosophy of the Command Line
 
+> “*Simple should be simple.
+> Complex should be possible.*” —Alan Kay
+
 ### Software Products are Complex
 
 AI is radically changing the way we build and use software.
@@ -124,9 +127,6 @@ to see how well it works.
 
 ### The Goals of New Shell-Style Interfaces
 
-> “*Simple should be simple.
-> Complex should be possible.*” —Alan Kay
-
 This brings us to the goals behind building a new, AI-native shell:
 
 - **Make simple tasks simple:** Doing a simple thing (like transcribing a video or
@@ -170,7 +170,9 @@ It is the tool you need when you don't know what tool you need.
 
 ### Design Principles
 
-Key design choices:
+What are the key design choices in building shell-style tools and interfaces?
+
+I've been thinking about this a while and have come up with these:
 
 1. **Flexibility and power arise from simple tools that can be recombined in complex
    ways** (like the old Unix model)
@@ -214,6 +216,13 @@ Key design choices:
 12. **User interfaces should be data-driven and gradually improve** (visuals and
     workflows should not be designed up front, but emerge naturally as data is
     manipulated and use cases become clearer)
+
+## Feedback?
+
+This little manifesto is something I wrote in late 2024. I plan to revise it with more
+ideas as I'm building some tools related to this.
+If you'd like to give feedback or have thoughts, I'd love to hear from you.
+I'm easiest to reach [on X/Twitter](https://x.com/ojoshe).
 
 ## License
 
