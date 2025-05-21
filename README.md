@@ -81,7 +81,7 @@ So what does all this have to do with the command line?
 ### Why Do We Need an AI-Native Command Line?
 
 > “*Civilization advances by extending the number of important operations which we can
-> perform without thinking about them.*” —Alfred North Whitehead
+> perform without thinking about them.*” —Alfred North Whitehead[^whitehead]
 
 The classic Unix-style command line has been the Swiss Army knife for savvy developers
 for decades. (The bash shell, still used widely, was released 35 years ago!)
@@ -236,4 +236,11 @@ License](http://creativecommons.org/licenses/by-sa/4.0/).
 [^kay]: https://news.ycombinator.com/item?id=24463842
 
 [^oreilly]: https://www.oreilly.com/tim/wtf-book.html
+
+[^whitehead]: “It is a profoundly erroneous truism … that we should cultivate the habit
+    of thinking of what we are doing.
+    The precise opposite is the case.
+    Civilization advances by extending the number of important operations which we can
+    perform without thinking about them.”
+    —Alfred North Whitehead, An Introduction to Mathematics (1911), p. 61
 
